@@ -5,3 +5,6 @@ C:\Users\lenovo\source\repos\ADO.Net\ADO.Net\obj\Debug\ADO.Net.csproj.AssemblyRe
 C:\Users\lenovo\source\repos\ADO.Net\ADO.Net\obj\Debug\ADO.Net.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\source\repos\ADO.Net\ADO.Net\obj\Debug\ADO.Net.exe
 C:\Users\lenovo\source\repos\ADO.Net\ADO.Net\obj\Debug\ADO.Net.pdb
+C:\Users\lenovo\source\repos\ADO.Net\ADO.Net\bin\Debug\ClassLibrary1.dll
+C:\Users\lenovo\source\repos\ADO.Net\ADO.Net\bin\Debug\ClassLibrary1.pdb
+C:\Users\lenovo\source\repos\ADO.Net\ADO.Net\obj\Debug\ADO.Net.csproj.CopyComplete

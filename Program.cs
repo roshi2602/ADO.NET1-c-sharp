@@ -28,17 +28,17 @@ namespace ADO.Net
 
                 //write sql query to create table
 
-   //                  SqlCommand cm = new SqlCommand("create table Employee(id int not null,name varchar(100), email varchar(50), join_date date)", con);  
+        //             SqlCommand cm = new SqlCommand("create table Employee(id int not null,name varchar(100), email varchar(50), join_date date)", con);  
 
                 //query to insert data
-  //               SqlCommand cm = new SqlCommand("insert into Employee(id, name, email,join_date)values('100','roshi','roshi@gmail.com','1/06/2021')", con);
+                 SqlCommand cm = new SqlCommand("insert into Employee(id, name, email,join_date)values('100','roshi','roshi@gmail.com','1/06/2021')", con);
 
                 //query to retrive record
     //            SqlCommand cm = new SqlCommand("Select * from Employee", con);
 
 
                 //query to delete record
-                SqlCommand cm = new SqlCommand("delete from Employee where id=100", con);
+    //            SqlCommand cm = new SqlCommand("delete from Employee where id=100", con);
 
 
                //opening connection
